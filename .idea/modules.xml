@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jxr-rs.iml" filepath="$PROJECT_DIR$/jxr-rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hs110_usage_collector.iml" filepath="$PROJECT_DIR$/hs110_usage_collector.iml" />
     </modules>
   </component>
 </project>
